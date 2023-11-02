@@ -1,0 +1,52 @@
+Phase 1:Problem Definition and Design Thinking
+Project Submission
+Project Title:Data Warehousing with IBM Cloud Db2 Warehouse
+Problem Statement
+Begin by clearly defining the problem you are trying to solve. What is the challenge or opportunity you're addressing? Use this section to provide a succinct description of the problem statement.
+
+Problem Statement:
+ Insert the problem statement here.
+Understanding the Problem
+To effectively address the problem, it's crucial to have a deep understanding of its various facets. This involves researching and gathering information to comprehend the scope, context, and nuances of the problem.
+
+Stakeholder Analysis
+Identify the key stakeholders involved in or affected by the problem. This could include customers, users, partners, employees, or regulatory bodies. Understanding their needs and expectations is crucial.
+
+Market Research
+Conduct research to understand the market dynamics, trends, and competition relevant to the problem. This can involve analyzing industry reports, competitor strategies, and customer feedback.
+
+User Research
+If applicable, gather insights from the end-users by conducting surveys, interviews, or observations. This helps in understanding their pain points and preferences.
+
+Design Thinking Approach
+Design thinking is a human-centered approach to problem-solving that focuses on empathy, ideation, and prototyping. Here's how we will apply design thinking to address the problem:
+
+1. Empathize
+Empathy is at the core of design thinking. We will empathize with the stakeholders to deeply understand their perspectives and challenges.
+Methods: Interviews, surveys, and user observations.
+2. Define
+After gathering insights, we will define the problem from a user-centered perspective. This involves synthesizing data to create a problem statement.
+Methods: Persona creation, journey mapping, and problem framing.
+3. Ideate
+We will generate creative ideas to address the defined problem. Brainstorming sessions and ideation workshops will be conducted.
+Methods: Brainstorming, mind mapping, and ideation exercises.
+4. Prototype
+Creating prototypes and mockups to visualize and test our ideas. This step helps in quickly iterating and refining solutions.
+Methods: Wireframing, mockups, and low-fidelity prototypes.
+Testing the prototypes with users and stakeholders to gather feedback and refine the solutions iteratively.
+Methods: Usability testing, feedback surveys, and A/B testing.
+Proposed Design
+In this section, outline the initial design concepts or solutions you are considering based on the insights gained from the design thinking process.
+
+Proposed Design: Briefly describe the initial design concepts or solutions.
+
+Next Steps
+Summarize the immediate next steps to progress with solving the problem.
+Assign responsibilities and set a timeline for each step.
+Include any additional research, data gathering, or brainstorming that needs to occur.
+Next Steps: List the specific actions, responsibilities, and deadlines.
+
+This document provides a framework for understanding and addressing a problem using design thinking. Ensure that you adapt the content and structure to fit the specific problem you are working on. The key is to maintain a user-centric focus throughout the process and iterate as needed to arrive at an effective solution.
+
+
+
